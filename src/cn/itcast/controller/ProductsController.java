@@ -26,6 +26,7 @@ public class ProductsController {
 		System.out.println("这是B程序员更改的代码,请注意更新");
 		System.out.println("这是B程序员更改的代码,没有更新代码直接开发,提交,发送代码,发生冲突");
 		System.out.println("这是A程序员开发代码,push提交到中央仓库.B没有更新,直接开发,提交推送");
+		System.out.println("在bug99上开发新的业务");
 		return "git";		
 	}
 	
