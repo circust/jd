@@ -23,6 +23,7 @@ public class ProductsController {
 	public String showGit(){
 		
 		System.out.println("这是A程序员第一次修改代码,大家注意了");
+		System.out.println("这是B程序员更改的代码,请注意更新");
 		return "git";		
 	}
 	
