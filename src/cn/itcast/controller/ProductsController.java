@@ -24,6 +24,7 @@ public class ProductsController {
 		
 		System.out.println("这是A程序员第一次修改代码,大家注意了");
 		System.out.println("这是B程序员更改的代码,请注意更新");
+		System.out.println("这是B程序员更改的代码,没有更新代码直接开发,提交,发送代码,发生冲突");
 		return "git";		
 	}
 	
